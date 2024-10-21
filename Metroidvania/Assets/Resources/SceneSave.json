@@ -1,0 +1,14 @@
+{
+    "save_Scene": "1_1",
+    "save_Location": "서울",
+    "hp": 100,
+    "mp": 100,
+    "hpPotion": 5,
+    "mpPotion": 5,
+    "event_Item": [
+        "검1",
+        "검2",
+        "검3"
+    ],
+    "startZone": 1
+}

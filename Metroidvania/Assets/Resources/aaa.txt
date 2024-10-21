@@ -1,0 +1,18 @@
+{
+  "save_Scene": "서울",
+  "save_Location": "서울",
+  "hp": 100,
+  "mp": 100,
+  "event_Itme": [
+    "칼",
+    "방패",
+    "포션"
+  ],
+  "consumable_Item": {
+    "hpPotion": 5,
+    "mpPotion": 5
+  },
+  "stage_list": {
+    "startZone": 0
+  }
+}

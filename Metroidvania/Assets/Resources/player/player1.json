@@ -1,0 +1,17 @@
+{
+    "current_player": 0,
+    "last_play_time": "마지막 기억 : 2024년 7월 20일 : 22시 59분",
+    "save_Scene": "1_0",
+    "save_Location": "슬픈의 기억",
+    "hp": 100,
+    "mp": 100,
+    "event_Item": [
+        "검1",
+        "검2",
+        "검3"
+    ],
+    "consumable_Item": {
+        "hpPotion": 5,
+        "mpPotion": 5
+    }
+}
