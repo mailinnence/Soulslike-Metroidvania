@@ -12,4 +12,4 @@
 ##### https://github.com/mailinnence/Soulslike-Metroidvania/tree/main/Metroidvania/Assets/c%23 이곳에서 볼 수 있습니다.
 
 ### 플레이 영상
-##### https://www.youtube.com/watch?v=rK1IIy1sQHI
+##### [https://www.youtube.com/watch?v=rK1IIy1sQHI](https://www.youtube.com/watch?v=Cx0Sysv7EBY)
